@@ -1,0 +1,9 @@
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\bin\Debug\net4.8\PointLib.dll
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\bin\Debug\net4.8\PointLib.pdb
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\obj\Debug\net4.8\PointLib.vbproj.AssemblyReference.cache
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\obj\Debug\net4.8\PointLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\obj\Debug\net4.8\PointLib.AssemblyInfoInputs.cache
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\obj\Debug\net4.8\PointLib.AssemblyInfo.vb
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\obj\Debug\net4.8\PointLib.vbproj.CoreCompileInputs.cache
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\obj\Debug\net4.8\PointLib.dll
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\PointLib\obj\Debug\net4.8\PointLib.pdb

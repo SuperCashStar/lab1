@@ -1,0 +1,16 @@
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\bin\Debug\serlab.exe.config
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\bin\Debug\serlab.exe
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\bin\Debug\serlab.pdb
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\bin\Debug\PointLib.dll
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\bin\Debug\PointLib.pdb
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.csproj.AssemblyReference.cache
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.csproj.SuggestedBindingRedirects.cache
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.Form1.resources
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.Properties.Resources.resources
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.csproj.GenerateResource.cache
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.csproj.CoreCompileInputs.cache
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.csproj.CopyComplete
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.exe
+C:\Users\alhar\Source\Repos\SerializationLab-Points-3D-\serlab\obj\Debug\serlab.pdb
